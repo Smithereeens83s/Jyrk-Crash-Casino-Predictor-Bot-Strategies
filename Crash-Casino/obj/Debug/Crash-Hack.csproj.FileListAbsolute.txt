@@ -1,0 +1,6 @@
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.AssemblyReference.cache
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.CrashGame.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.Login.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash_Hack.Properties.Resources.resources
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.GenerateResource.cache
+D:\GithubNew\6\Crash\Crash\Crash-Casino\obj\Debug\Crash-Hack.csproj.CoreCompileInputs.cache
